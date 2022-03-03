@@ -13,7 +13,8 @@ public class miniproject {
 		{  
 		System.out.print(sc.next());  //find and returns the next complete token from this scanner  
 		}   
-		sc.close();  //closes the scanner  
+		sc.close(); 
+		//closes the scanner  
 		
 	}
 
